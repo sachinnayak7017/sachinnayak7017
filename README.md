@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sachin Kumar 👋
 
-<!--
-**sachinnayak7017/sachinnayak7017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Java Full Stack Developer** passionate about building robust web applications and solving complex algorithmic problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** Java, JavaScript, HTML5, CSS3, SQL
+- **Frameworks & Libraries:** Spring Boot, REST APIs, Hibernate / JPA
+- **Databases:** MySQL, PostgreSQL
+- **Developer Tools:** Git, GitHub, Maven, Postman, VS Code, IntelliJ IDEA
+- **Core Concepts:** Data Structures & Algorithms (DSA), OOPs, DBMS, Operating Systems
+
+---
+
+### 📊 GitHub Stats & Problem Solving
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinnayak7017&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinnayak7017&layout=compact&theme=radial)
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [Sachin Kumar](https://linkedin.com/in/sachin-kumar-860541286)
+- **LeetCode:** [sachinnayak7017](https://leetcode.com/u/sachinnayak7017/)
