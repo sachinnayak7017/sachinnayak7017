@@ -5,7 +5,7 @@ I'm a **Java Full Stack Developer** passionate about building robust web applica
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Java, JavaScript, HTML5, CSS3, SQL,Mongo
+- **Languages:** Java, JavaScript, HTML5, CSS3, SQL,Mongodb
 - **Frameworks & Libraries:** Spring Boot, REST APIs, Hibernate / JPA
 - **Databases:** MySQL, PostgreSQL
 - **Developer Tools:** Git, GitHub, Maven, Postman, VS Code, IntelliJ IDEA
